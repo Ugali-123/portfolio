@@ -4,7 +4,7 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: 'poppins', sans-serif;
-    background-color: #061301;
+    background-color: #081b29;
    
 }
 
@@ -28,7 +28,7 @@ body {
 .logo {
     position: relative;
     font-size: 25px;
-    color: rgb(7, 234, 26);
+    color: #0ef;
     text-decoration: none;
     font-weight: 600;
     cursor: default;
@@ -39,7 +39,7 @@ body {
 .navbar a {
     display: inline-block;
     font-size: 25px;
-    color: rgb(7, 234, 26);
+    color: #0ef;
     text-decoration: none;
     font-weight: 500;
     margin-left: 35px;
@@ -50,7 +50,7 @@ body {
 }
 
 .navbar a:hover {
-    color:rgb(7, 234, 26);
+    color:#0ef;
 }
 
 .home {
@@ -90,7 +90,7 @@ body {
 
 
 .home-content h3 span {
-    color: rgb(7, 234, 26);
+    color:#0ef;
 }
 
 .home-content h1 {
@@ -116,10 +116,10 @@ body {
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid rgb(7, 234, 26);
+    border: 2px solid #0ef;
     border-radius: 50%;
     font-size: 20px;
-    color: rgb(7, 234, 26);
+    color: #0ef;
     transition: .5s ease;
     text-decoration: none;
     opacity: 0;
@@ -129,15 +129,15 @@ body {
 }
 
 .home-sci a:hover {
-    background: rgb(7, 234, 26);
+    background: #0ef;
     color: #081b29;
-    box-shadow: 0 0 20px rgb(7, 234, 26);
+    box-shadow: 0 0 20px #0ef;
 }
 
 .btn-box {
     display: inline-block;
     padding: 12px 28px;
-    background: rgb(7, 234, 26);
+    background:#0ef;
     border-radius: 40px;
     font-size: 16px;
     color: #081b29;
@@ -147,11 +147,11 @@ body {
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px rgb(7, 234, 26) 0 0 25px rgb(7, 234, 26);
+    box-shadow: 0 0 5px #0ef, 0 0 25px #0ef;
 }
 .btn-box:hover {
-    box-shadow: 0 0 5px rgb(7, 234, 26), 0 0 25px rgb(7, 234, 26),
-        0 0 50px rgb(7, 234, 26), 0 0 100px rgb(7, 234, 26), 0 0 200px rgb(7, 234, 26)
+    box-shadow: 0 0 5px #0ef, 0 0 25px #0ef,
+        0 0 50px #0ef, 0 0 100px #0ef, 0 0 200px #0ef
 }
 
 
@@ -183,7 +183,7 @@ body {
 
 }
 .about-text h2 span{
-    color: rgb(7, 234, 26);
+    color: #0ef;
 }
 .about-text h4{
     font-size: 29px;
@@ -213,7 +213,7 @@ margin-bottom: 4rem;
     padding-bottom: 70px;
 }
 .sub-title span{
-    color: rgb(7, 234, 26);
+    color: #0ef;
 }
 
 
@@ -239,7 +239,7 @@ margin-bottom: 4rem;
     border-radius: 20px;
     transition: background 0.5s, transform 0.5s;
     box-shadow: 1px 1px 20px   #061301,
-                 1px 1px 40px rgb(7, 234, 26);
+                 1px 1px 40px #0ef;
 }
 .services-list div i{
       font-size: 50px;
@@ -260,7 +260,7 @@ margin-bottom: 4rem;
 .read{
     display: inline-block;
     padding: 12px 28px;
-    background: rgb(7, 234, 26);
+    background:#0ef;
     border-radius: 40px;
     font-size: 16px;
     color: #081b29;
@@ -270,11 +270,11 @@ margin-bottom: 4rem;
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px rgb(7, 234, 26) 0 0 25px rgb(7, 234, 26);
+    box-shadow: 0 0 5px #0ef, 0 0 25px #0ef;
 }
 .read:hover{
-    box-shadow: 0 0 5px rgb(7, 234, 26), 0 0 25px rgb(7, 234, 26),
-        0 0 50px rgb(7, 234, 26), 0 0 100px rgb(7, 234, 26), 0 0 200px rgb(7, 234, 26)
+    box-shadow: 0 0 5px #0ef, 0 0 25px #0ef,
+        0 0 50px #0ef, 0 0 100px #0ef, 0 0 200px #0ef
 }
 .services-list div:hover{
     transform: translateY(-10px);
@@ -341,7 +341,7 @@ section{
 }
 .Technical-bars .bar .progress-line span{
     height: 100%;
-    background-color: rgb(7, 234, 26);
+    background-color:#0ef;
     position: absolute;
     border-radius: 10px;
     animation:animate 1s 1s cubic-bezier(1,0,0.5,1)forwards ;
@@ -464,7 +464,7 @@ width: 89%;
 }
 .path{
     stroke-width:10 ;
-    stroke: rgb(7, 234, 26);
+    stroke:#0ef;
     fill: transparent;
     stroke-dasharray: 502;
     stroke-dashoffset: 502;
@@ -554,7 +554,7 @@ width: 89%;
     text-align: center;
 }
 .main-text h2 span{
-    color: rgb(7, 234, 26);
+    color: #0ef;
 }
 .portfolio-content{
     display: grid;
@@ -576,7 +576,7 @@ width: 89%;
 .layer{
     width: 100%;
     height: 0;
-    background: linear-gradient(rgba(0,0,0,0.1),rgb(7, 234, 26));
+    background: linear-gradient(rgba(0,0,0,0.1),#0ef);
     position: absolute;
     border-radius: 8px;
     left:0;
@@ -639,16 +639,16 @@ width: 89%;
     text-align: center;
 }
 .contact-text span{
-    color: rgb(7, 234, 26);
+    color: #0ef;
 }
 .contact-text h4{
     margin: 15px 0;
-    color: rgb(228,228, 228);
+    color: #0ef;
     font-size: 20px;
     font-weight: 600;
 }
 .contact-text p{
-    color: rgb(177, 177, 177);
+    color: #0ef;
     font-size: 20px;
     line-height: 30px;
     margin-bottom: 2rem;
@@ -662,7 +662,7 @@ width: 89%;
 }
 .contact-list i{
     display: inline-block;
-    color: rgb(7, 234, 26);
+    color: #0ef;
     font-size: 20px;
     font-weight: 600;
     transition: all .40s ease;
@@ -678,10 +678,10 @@ width: 89%;
     width: 40px;
     height: 40px;
     background: transparent;
-    border: 2px solid rgb(7, 234, 26);
+    border: 2px solid #0ef;
     border-radius: 50%;
     font-size: 20px;
-    color: rgb(7, 234, 26);
+    color:#0ef;
     text-decoration: none;
     margin: 30px 15px 30px 0;
     transition: -5s ease;
@@ -692,7 +692,7 @@ width: 89%;
 .contact-icons i:hover{
     background: rgb(7, 234, 26);
     color: #000;
-    box-shadow: 0 0 20px rgb(7, 234, 26);
+    box-shadow: 0 0 20px #0ef;
 }
 .contact-form form{
     position: relative;
@@ -718,7 +718,7 @@ width: 89%;
 .contact-form form .send{
     display: inline-block;
     padding: 14px 60px;
-    background: rgb(7, 234, 26);
+    background: #0ef;
     border-radius: 40px;
     font-size: 16px;
     color: #081b29;
@@ -728,12 +728,12 @@ width: 89%;
     opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 2s;
-    box-shadow: 0 0 5px rgb(7, 234, 26) 0 0 25px rgb(7, 234, 26);
+    box-shadow: 0 0 5px #0ef, 0 0 25px #0ef;
 
 }
 .contact-form form .send:hover{
-    box-shadow:  0 0 5px rgb(7, 234, 26), 0 0 25px rgb(7, 234, 26),
-    0 0 50px rgb(7, 234, 26), 0 0 100px rgb(7, 234, 26), 0 0 200px rgb(7, 234, 26)
+    box-shadow:  0 0 5px #0ef, 0 0 25px #0ef,
+    0 0 50px #0ef, 0 0 100px #0ef, 0 0 200px #0ef
 }
 .last-text p{
     width: 100%;
